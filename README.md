@@ -4,7 +4,7 @@ I am a math postdoc at Georgia Tech. I am currently working on projects related 
 
 I use my GitHub account to post research and class related material, as well as the small projects I play with for fun. 
 
-You can find additional info on my website at [petrosyan.page](https://petrosyan.page).
+You can find additional info on my website at [armenakpetrosyan.com](https://armenakpetrosyan.com).
 
 <!--
 **a-petr/a-petr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
