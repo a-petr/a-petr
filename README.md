@@ -1,6 +1,6 @@
 ## Hello, 
 
-I am a math postdoc at Georgia Institute of Technology. My interests are in everything machine learning. Part of my research concerns signal reconstruction where I am trying to improve existing methods, particularly those related to simultaneous reconstruction of multiple signals using sparsity. My other work concerns stabity and the small size of neural networks, more specifically, how to achieve them.
+I am a machine learning specialist at ClothingTech LLC. My interests are in everything machine learning. Part of my research concerns signal reconstruction where I am trying to improve existing methods, particularly those related to simultaneous reconstruction of multiple signals using sparsity. My other work concerns the small size of neural networks, more specifically, how to achieve them.
 
 You can find additional info on my website at [armenakpetrosyan.com](https://armenakpetrosyan.com).
 
