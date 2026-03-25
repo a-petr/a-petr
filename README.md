@@ -1,8 +1,6 @@
 ## Hello, 
 
-I am a machine learning specialist at ClothingTech LLC. My interests are in everything machine learning. Part of my research concerns signal reconstruction where I am trying to improve existing methods, particularly those related to simultaneous reconstruction of multiple signals using sparsity. My other work concerns the small size of neural networks, more specifically, how to achieve them.
-
-You can find additional info on my website at [armenakpetrosyan.com](https://armenakpetrosyan.com).
+I am a Lead Data Scientist at ADP.
 
 <!--
 **a-petr/a-petr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
